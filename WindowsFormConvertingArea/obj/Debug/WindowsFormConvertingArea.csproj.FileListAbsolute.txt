@@ -1,0 +1,10 @@
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\bin\Debug\WindowsFormConvertingArea.exe.config
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\bin\Debug\WindowsFormConvertingArea.exe
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\bin\Debug\WindowsFormConvertingArea.pdb
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\obj\Debug\WindowsFormConvertingArea.csprojAssemblyReference.cache
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\obj\Debug\WindowsFormConvertingArea.frmAreaConvert.resources
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\obj\Debug\WindowsFormConvertingArea.Properties.Resources.resources
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\obj\Debug\WindowsFormConvertingArea.csproj.GenerateResource.cache
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\obj\Debug\WindowsFormConvertingArea.csproj.CoreCompileInputs.cache
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\obj\Debug\WindowsFormConvertingArea.exe
+C:\Users\kasra\source\repos\WindowsFormConvertingArea\WindowsFormConvertingArea\obj\Debug\WindowsFormConvertingArea.pdb
